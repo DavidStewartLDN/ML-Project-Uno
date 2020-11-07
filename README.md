@@ -8,8 +8,9 @@ Instead, we aim to start with a simple data set, alogrithm and visualisation, th
 
 This readme will be updated shortly to reflect changes in the project!
 
-## Getting Started
+## Current Phased Plan
 
+<img src="img/ML-flow.svg" width="1000" />
 
 ### Prerequisites
 
